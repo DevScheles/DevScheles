@@ -45,7 +45,7 @@ Ainda estou construindo meus projetos, mas aqui estarão alguns dos que eu desen
 - **Gerenciamento de Garagem (C#)** – Projeto do curso com Wladimir Barros.  
 - **Projetos de JavaScript** – Em breve, do curso do Sujeito Programador.  
 
-
+##
 
 <!-- TODO: Botoes Redes Sociais e Contato -->
 
